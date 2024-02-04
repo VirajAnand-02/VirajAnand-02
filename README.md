@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @VirajAnand-02
-- 👀 I’m interested in ... arduino, ai, Js...
+- 👀 I’m interested in ... arduino, ai, Js, Python n Bots
 - 🌱 I’m currently learning ... Btech cse 💀
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... please don't
+<!---
+LinkedIn: https://www.linkedin.com/in/viraj-anand-b57156257/
+---!>
 
 <!---
 VirajAnand-02/VirajAnand-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
